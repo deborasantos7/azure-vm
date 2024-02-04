@@ -31,19 +31,23 @@ This is a walk-through on how to create a VM in Azure.<br />
 - Item 5
 
 <h2>Creating a New VM Steps</h2>
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+          <p align="center">
+ 1. On the Microsoft Azure Home page, under Azure Services, click on “Create a Resource”
 </p>
+<p align="center">
 <p>
-On the Microsoft Azure Home page, under Azure Services, click on “Create a Resource”
+<img src="https://github.com/deborasantos7/azure-vm/assets/158119574/33c38525-8d36-4fd3-a9f9-a569d6d201ba"/>
+</p><p>
+
 </p>
 <br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p align="center">
+2. On the following page, click on "Create" under "Virtual Machine"
 </p>
-<p>
+<p align="center">
+<img src="https://github.com/deborasantos7/azure-vm/assets/158119574/170a6f81-ddf1-4427-8d36-6aa3e69a1e3e"
+</p>
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />

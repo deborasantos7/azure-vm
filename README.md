@@ -5,7 +5,7 @@
 </p>
 
 <h1>Microsoft Azure: Creating a Virtual Machine</h1>
-This is a walk-through on how to create a VM in Azure.<br />
+This is a walk-through on how to create a VM in Azure with basic settings.<br />
 
 
 <h2>Video Demonstration</h2>

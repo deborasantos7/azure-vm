@@ -31,9 +31,9 @@ This is a walk-through on how to create a VM with basic settings in Azure.<br />
 - Item 5
 
 <h2>Creating a New VM Steps</h2>
-          <p align="center">
- 1. On the Microsoft Azure Home page, under Azure Services, click on “Create a Resource”
-</p>
+          
+**1. On the Microsoft Azure Home page, under Azure Services, click on “Create a Resource”**
+
 <p align="center">
 <p>
 <img src="https://github.com/deborasantos7/azure-vm/assets/158119574/33c38525-8d36-4fd3-a9f9-a569d6d201ba"/>
@@ -41,12 +41,21 @@ This is a walk-through on how to create a VM with basic settings in Azure.<br />
 
 </p>
 <br />
-<p align="center">
-2. On the following page, click on "Create" under "Virtual Machine"
-</p>
+
+**2. On the following page, click on "Create" under "Virtual Machine"**
+
 <p align="center">
 <img src="https://github.com/deborasantos7/azure-vm/assets/158119574/170a6f81-ddf1-4427-8d36-6aa3e69a1e3e"
 </p>
+
+
+**3. You will fill out all the information required for basic setting (Project Details, Instance Details, Administrator account, and Inbound Port Rules)**
+
+<p align="center">
+<img src="https://github.com/deborasantos7/azure-vm/assets/158119574/2be95815-086b-4268-ae94-724fa2cb9bba">
+</p>
+
+*Project Details - Select the subscription and resource group that you would like to use. If you want a new resource group to be created for your new VM, that will be done automatically (by default).*
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>

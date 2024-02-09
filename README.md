@@ -84,9 +84,9 @@ This is a walk-through on how to create a VM with basic settings in Azure.<br />
 </p>
 
 **6. Once the VM deployment is complete, select "Go to resource" to begin utilizing your newly created VM**
-
+<p align="center">
  ![image](https://github.com/deborasantos7/azure-vm/assets/158119574/5fc3d730-d6b7-4754-bedd-44689d50c795)
-
+</p>
 
 
 

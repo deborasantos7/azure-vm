@@ -20,7 +20,7 @@ This is a walk-through on how to create a VM with basic settings in Azure.<br />
 
 - Outlook email
 - Azure subscription
-- Internet Service
+- Internet service
 
 <h2>Creating a New VM Steps</h2>
           

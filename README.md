@@ -15,8 +15,6 @@ This is a walk-through on how to create a VM with basic settings in Azure.<br />
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
 

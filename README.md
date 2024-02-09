@@ -71,16 +71,20 @@ This is a walk-through on how to create a VM with basic settings in Azure.<br />
 
 *3.4- Inbound port rules - You may leave Inbound port rules configuration as the default selection, check the box to confirm Licensing, and click on "Review + Create"*
 
-**4. After the review process, you should see "Validation Passed" at the top right corner of your screen. Once again, hit "Create" (located at the bottom).**
+**4. After the review process, you should see "Validation Passed" at the top right corner of your screen. Once again, hit "Create" (located at the bottom)**
 
 <p align="center">
 <img src="https://github.com/deborasantos7/azure-vm/assets/158119574/116d9961-4953-4340-9528-d881d3eba2a6">
 </p>
 
+**5. You will see every resource being created inside the VM while its deployment is in progress**
+
+<p align="center">
+<img src="https://github.com/deborasantos7/azure-vm/assets/158119574/95451aa0-410a-44e8-ab0b-6bb20b1173c0">
+</p>
 
 
 
-Deployment in progress ![image](https://github.com/deborasantos7/azure-vm/assets/158119574/95451aa0-410a-44e8-ab0b-6bb20b1173c0)
 Deployment complete ![image](https://github.com/deborasantos7/azure-vm/assets/158119574/5fc3d730-d6b7-4754-bedd-44689d50c795)
 VM not ready ![image](https://github.com/deborasantos7/azure-vm/assets/158119574/3759338e-3d0d-4b92-8809-09e2131daedd)
 Redeploy/reapply 1 ![image](https://github.com/deborasantos7/azure-vm/assets/158119574/7b625f18-5020-4ae2-8b37-4c53650e3328)

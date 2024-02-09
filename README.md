@@ -55,13 +55,13 @@ This is a walk-through on how to create a VM with basic settings in Azure.<br />
 <img src="https://github.com/deborasantos7/azure-vm/assets/158119574/2be95815-086b-4268-ae94-724fa2cb9bba">
 </p>
 
-*Project Details - Select the subscription and resource group that you would like to use. If you want a new resource group to be created for your new VM, that will be done automatically (by default).*
+*3.1- Project Details - Select the subscription and resource group that you would like to use. If you want a new resource group to be created for your new VM, that will be done automatically (by default).*
 
 <p align="center">
 <img src="https://github.com/deborasantos7/azure-vm/assets/158119574/3fdeaab6-24b7-4a28-b4b5-c215d082e31e">
 </p>
 
-*Instance Details - Select a name and a region for your VM; Select "no infrastructure redundancy required" as a basic setting for your availability options; Select the base operating system/application aka "Image" (Windows or Ubuntu server, Windows 10 or 11, etc.)
+*3.2- Instance Details - Select a name and a region for your VM; Select "no infrastructure redundancy required" as a basic setting for your availability options; Select the base operating system/application aka "Image" (Windows or Ubuntu server, Windows 10 or 11, etc.)
 ; Lastly, select an appropriate VM size to support your workload (1, 2, 4 vcpus).*
 
 
@@ -69,7 +69,7 @@ This is a walk-through on how to create a VM with basic settings in Azure.<br />
 <img src="https://github.com/deborasantos7/azure-vm/assets/158119574/f0d573f5-64d8-4529-8ac2-86e9cf0dd147">
 </p>
           
-*Administrator Account - Create a username and password.*
+*3.3- Administrator Account - Create a username and password.*
 
 <p align="center">
 <img src="https://github.com/deborasantos7/azure-vm/assets/158119574/d4332f9a-3aa4-4a07-8d07-81726bcaeedf"
@@ -77,7 +77,7 @@ This is a walk-through on how to create a VM with basic settings in Azure.<br />
 ">
 </p>
 
-*Inbound port rules - You may leave Inbound port rules configuration as the default selection, check the box to confirm Licensing, and click on "Review + Create"*
+*3.4- Inbound port rules - You may leave Inbound port rules configuration as the default selection, check the box to confirm Licensing, and click on "Review + Create"*
 
 **4. After reviewing, you should see "Validation Passed" on top right corner. Once again, hit "Create" at the bottom of the screen
 

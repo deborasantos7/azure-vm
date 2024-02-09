@@ -28,8 +28,10 @@ This is a walk-through on how to create a VM with basic settings in Azure.<br />
 
 <p align="center">
 <p>
-<img src="https://github.com/deborasantos7/azure-vm/assets/158119574/33c38525-8d36-4fd3-a9f9-a569d6d201ba"/>
+<img src="https://github.com/deborasantos7/azure-vm/assets/158119574/2bc84550-df99-462b-8008-3beab6d99292"
+"/>
 </p><p>
+
 
 </p>
 <br />

@@ -74,7 +74,7 @@ This is a walk-through on how to create a VM with basic settings in Azure.<br />
 **4. After the review process, you should see "Validation Passed" at the top right corner of your screen. Once again, hit "Create" (located at the bottom)**
 
 <p align="center">
-<img src="https://github.com/deborasantos7/azure-vm/assets/158119574/116d9961-4953-4340-9528-d881d3eba2a6">
+<img src="https://github.com/deborasantos7/azure-vm/assets/158119574/bae90687-4f9a-4112-aadc-e0ecf2c65acd">
 </p>
 
 *If you don't see "Validation Passed", you will need to go back and review what you did. You might have just missed checking a required box.* :relaxed:
@@ -82,7 +82,7 @@ This is a walk-through on how to create a VM with basic settings in Azure.<br />
 **5. You will see every resource being created inside the VM while its deployment is in progress**
 
 <p align="center">
-<img src="https://github.com/deborasantos7/azure-vm/assets/158119574/95451aa0-410a-44e8-ab0b-6bb20b1173c0">
+<img src="https://github.com/deborasantos7/azure-vm/assets/158119574/11baa8d8-7ca0-4488-b405-45ac831ae2f4">
 </p>
 
 **6. Once the VM deployment is complete, select "Go to resource" to begin utilizing your newly created VM**

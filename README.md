@@ -4,7 +4,7 @@
 </p>
 
 <h1>Microsoft Azure: Creating a Virtual Machine</h1>
-This is a walk-through on how to create a VM with basic settings in Azure.<br />
+This is a walk-through on how to create a Virtual Machine with basic settings in Microsoft Azure.<br />
 
 
 <h2>Environments and Technologies Used</h2>

@@ -89,8 +89,9 @@ This is a walk-through on how to create a VM with basic settings in Azure.<br />
 <img src="https://github.com/deborasantos7/azure-vm/assets/158119574/501af060-276e-4b2c-9bb7-f809371be01e">
 </p>
 
-***References: <a href="https://learn.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-portal">Quickstart: Create a Windows virtual machine in the Azure portal
-</a>***
+***References:***
+- <a href="https://learn.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-portal">Quickstart: Create a Windows virtual machine in the Azure portal </a>
+- <a href="https://www.canva.com/linkedin-banners/templates/">Create a LinkedIn Banner with Canva </a>
 
 
 

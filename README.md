@@ -47,7 +47,7 @@ This is a walk-through on how to create a VM with basic settings in Azure.<br />
 - Project Details - Select the subscription and resource group that you would like to use. If you want a new resource group to be created for your new VM, that will be done automatically (by default).
 
 <p align="center">
-<img src="https://github.com/deborasantos7/azure-vm/assets/158119574/2be95815-086b-4268-ae94-724fa2cb9bba">
+<img src="https://github.com/deborasantos7/azure-vm/assets/158119574/5bf0d65e-8431-4f2c-960b-778cddd80fd5">
 </p>
 
 
@@ -55,7 +55,7 @@ This is a walk-through on how to create a VM with basic settings in Azure.<br />
 ; Lastly, select an appropriate VM size to support your workload (1, 2, 4 vcpus).
 
 <p align="center">
-<img src="https://github.com/deborasantos7/azure-vm/assets/158119574/3fdeaab6-24b7-4a28-b4b5-c215d082e31e">
+<img src="https://github.com/deborasantos7/azure-vm/assets/158119574/0ed884b7-42be-4d7b-ba28-649d632eaaed">
 </p>
 
 - Administrator Account - Create a username and password.

@@ -13,7 +13,7 @@ This is a walk-through on how to create a VM with basic settings in Azure.<br />
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> (22H2)
 
 <h2>List of Prerequisites</h2>
 

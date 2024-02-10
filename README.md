@@ -63,7 +63,7 @@ This is a walk-through on how to create a VM with basic settings in Azure.<br />
 <img src="https://github.com/deborasantos7/azure-vm/assets/158119574/fa516dbd-0ab6-4cb5-8b05-968f2ad1d8f8">
 </p>
 
-- Inbound port rules: You may leave Inbound port rules configuration as the default selection, check the box to confirm Licensing, and click on 'Review + Create'
+- Inbound port rules: You may leave Inbound port rules configuration as the default selection, check the box to confirm Licensing, and click on 'Review + Create.'
 
 <p align="center">
 <img src="https://github.com/deborasantos7/azure-vm/assets/158119574/9fe1792b-d44a-425c-af37-42cbaa8cc8cc"

@@ -9,7 +9,11 @@ This is a walk-through on how to create a Virtual Machine with basic settings in
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure 
+
+<h2>Services Used</h2>
+
+- Azure Virtual Machines
 
 <h2>Operating Systems Used </h2>
 

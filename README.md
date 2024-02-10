@@ -70,7 +70,7 @@ This is a walk-through on how to create a VM with basic settings in Azure.<br />
 </p>
 
 
-**4. After the review process, you should see 'Validation Passed' at the top right corner of your screen. Once again, hit 'Create' (located at the bottom)**
+**4. After the review process, you should see 'Validation Passed' at the top right corner of your screen. Once again, choose 'Create' (located at the bottom)**
 
 <p align="center">
 <img src="https://github.com/deborasantos7/azure-vm/assets/158119574/bae90687-4f9a-4112-aadc-e0ecf2c65acd">

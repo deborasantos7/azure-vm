@@ -87,7 +87,7 @@ This is a walk-through on how to create a VM with basic settings in Azure.<br />
 
 **6. Once the VM deployment is complete, select "Go to resource" to begin utilizing your newly created VM**
 <p align="center">
-<img src="https://github.com/deborasantos7/azure-vm/assets/158119574/5fc3d730-d6b7-4754-bedd-44689d50c795">
+<img src="https://github.com/deborasantos7/azure-vm/assets/158119574/501af060-276e-4b2c-9bb7-f809371be01e">
 </p>
 
 ***References: <a href="https://learn.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-portal">Quickstart: Create a Windows virtual machine in the Azure portal

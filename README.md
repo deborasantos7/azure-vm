@@ -28,8 +28,7 @@ This is a walk-through on how to create a VM with basic settings in Azure.<br />
 
 <p align="center">
 <p>
-<img src="https://github.com/deborasantos7/azure-vm/assets/158119574/2bc84550-df99-462b-8008-3beab6d99292"
-"/>
+<img src="https://github.com/deborasantos7/azure-vm/assets/158119574/c771f1f3-f21d-496a-9304-d1a734135410">
 </p><p>
 
 
@@ -39,43 +38,46 @@ This is a walk-through on how to create a VM with basic settings in Azure.<br />
 **2. On the following page, click on "Create" under "Virtual Machine"**
 
 <p align="center">
-<img src="https://github.com/deborasantos7/azure-vm/assets/158119574/170a6f81-ddf1-4427-8d36-6aa3e69a1e3e"
+<img src="https://github.com/deborasantos7/azure-vm/assets/158119574/38833e0e-24d4-436a-a40c-57384811438a"
 </p>
 
 
 **3. You will fill out all the information required for basic setting (Project Details, Instance Details, Administrator account, and Inbound Port Rules)**
 
+- Project Details - Select the subscription and resource group that you would like to use. If you want a new resource group to be created for your new VM, that will be done automatically (by default).
+
 <p align="center">
 <img src="https://github.com/deborasantos7/azure-vm/assets/158119574/2be95815-086b-4268-ae94-724fa2cb9bba">
 </p>
 
-*3.1- Project Details - Select the subscription and resource group that you would like to use. If you want a new resource group to be created for your new VM, that will be done automatically (by default).*
+
+- Instance Details - Select a name and a region for your VM; Select "no infrastructure redundancy required" as a basic setting for your availability options; Select the base operating system/application aka "Image" (Windows or Ubuntu server, Windows 10 or 11, etc.)
+; Lastly, select an appropriate VM size to support your workload (1, 2, 4 vcpus).
 
 <p align="center">
 <img src="https://github.com/deborasantos7/azure-vm/assets/158119574/3fdeaab6-24b7-4a28-b4b5-c215d082e31e">
 </p>
 
-*3.2- Instance Details - Select a name and a region for your VM; Select "no infrastructure redundancy required" as a basic setting for your availability options; Select the base operating system/application aka "Image" (Windows or Ubuntu server, Windows 10 or 11, etc.)
-; Lastly, select an appropriate VM size to support your workload (1, 2, 4 vcpus).*
-
+- Administrator Account - Create a username and password.
 
 <p align="center">
 <img src="https://github.com/deborasantos7/azure-vm/assets/158119574/f0d573f5-64d8-4529-8ac2-86e9cf0dd147">
 </p>
-          
-*3.3- Administrator Account - Create a username and password.*
+
+- Inbound port rules - You may leave Inbound port rules configuration as the default selection, check the box to confirm Licensing, and click on "Review + Create"
 
 <p align="center">
 <img src="https://github.com/deborasantos7/azure-vm/assets/158119574/d4332f9a-3aa4-4a07-8d07-81726bcaeedf"
 </p>
 
-*3.4- Inbound port rules - You may leave Inbound port rules configuration as the default selection, check the box to confirm Licensing, and click on "Review + Create"*
 
 **4. After the review process, you should see "Validation Passed" at the top right corner of your screen. Once again, hit "Create" (located at the bottom)**
 
 <p align="center">
 <img src="https://github.com/deborasantos7/azure-vm/assets/158119574/116d9961-4953-4340-9528-d881d3eba2a6">
 </p>
+
+*If you don't see "Validation Passed", you will need to go back and review what you did. You might have just missed checking a required box.* :relaxed:
 
 **5. You will see every resource being created inside the VM while its deployment is in progress**
 

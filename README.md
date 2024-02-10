@@ -1,6 +1,5 @@
 <p align="center">
-<img src="https://github.com/deborasantos7/azure-vm/assets/158119574/e8c04827-d38a-469d-a627-0ea2fa739730"
-"
+<img src="https://github.com/deborasantos7/azure-vm/assets/158119574/d5216032-4621-413d-ad82-6af00f8c0a89"
 "/>
 </p>
 

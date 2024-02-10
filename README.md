@@ -25,7 +25,7 @@ This is a walk-through on how to create a Virtual Machine with basic settings in
 - Azure subscription
 - Internet service
 
-<h2>Creating a New VM Steps</h2>
+<h2>Configuration Steps and Deployment</h2>
           
 **1. On the Microsoft Azure Home page, under Azure Services, select 'Create a Resource'**
 
